@@ -9,3 +9,5 @@ LAB 03 https://github.com/2303A52464/GAI-2464/blob/main/GAI_Ass3.ipynb
 LAB 04 https://github.com/2303A52464/GAI-2464/blob/main/GAI_Ass4.ipynb
 
 LAB 05 https://github.com/2303A52464/GAI-2464/blob/main/GAI_Ass5.ipynb
+
+LAB 06 https://github.com/2303A52464/GAI-2464/blob/main/GAI_06_.ipynb
